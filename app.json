@@ -1,4 +1,4 @@
-{
+
   "name": "Nexus-XMD",
   "description": "Javascript WhatsApp bot made by pkdriller.",
   "keywords": ["Nexus-XMD"],
@@ -10,7 +10,7 @@
 
   "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {Pkdriller~xPk2kCjb#Gq8AVytCTUZ_czxO_1OY7u4wxpNW1CBt2D0FDKz3dmA
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
