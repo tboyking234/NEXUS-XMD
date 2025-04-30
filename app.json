@@ -10,8 +10,8 @@
 
   "stack": "container",
   "env": {
-    "SESSION_ID": {Pkdriller~xPk2kCjb#Gq8AVytCTUZ_czxO_1OY7u4wxpNW1CBt2D0FDKz3dmA
-      "description": "Put the session-id here.",
+    "SESSION_ID": {
+      "description": "Pkdriller0C8RjJyB#vuOn6JltN5fMjLSNub36W4GCgxpAhcwENU78L7F03MQ",
       "required": true,
       "value": ""
     },  
